@@ -1,0 +1,88 @@
+body{
+background-color: #303030;
+color: white ;
+font-family: 'lato', sans-serif;
+font-size:20px;
+margin: 0 !important;
+}
+.wrapper{
+	width: 100%;
+}
+.header {
+	width: 100%;
+	padding: 40px 0;
+}
+.logo {
+	width: 500px ;
+	font-size: 48px ;
+	margin-left: auto;
+	margin-right: auto;
+}
+.nav{
+	width: 100%;
+	padding: 10px 0;
+	/*background-color: #c34f4f;*/
+	text-align: center;
+	border-top: #751b1b;
+	border-bottom: #751b1b;
+	height: 35px;
+}
+.content{
+	width: 1000px;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: justify;
+}
+.socials{
+	width:100%;
+	text-align: center;
+	background-color: #292929;
+}
+.soc{
+	width:100%;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+}
+.dsc{
+	width: 250px;
+	height: 155px;
+	float:left;
+	
+	
+}
+.dsc:hover{
+	background-color:7289DA;
+}
+.ig{
+	width: 250px;
+	height: 155px;
+	float:left;
+}
+.ig:hover{
+	background-color:#4668b3;
+}
+.yt{
+	width: 250px;
+	height: 155px;
+	float:left;
+}
+.yt:hover{
+	background-color:#d94348;
+}
+.g{
+	width: 250px;
+	height: 155px;
+	float:left;
+}
+.g:hover{
+	background-color:#d95333;
+}
+a:link{ color: white;}
+a:visited{color: white;}
+a:hover{color: light-grey;}
+.footer{
+	text-align: center;
+	background-color: 222222;
+	padding: 30px;
+}
